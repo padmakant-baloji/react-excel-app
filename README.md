@@ -17,3 +17,4 @@ npm start
 You can now access the application on the url http://localhost:3000
  - USERNAME : root
  - PASSWORD : root
+ - [sample csv file](https://github.com/padmakant-baloji/react-excel-app/blob/master/company.csv)
