@@ -12,6 +12,6 @@ npm start
 ```
 
 ## Usage
-You can now access the application on the url http://localhost:3000.
-USERNAME : root.
-PASSWORD : root.
+You can now access the application on the url http://localhost:3000
+USERNAME : root
+PASSWORD : root
